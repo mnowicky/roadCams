@@ -1,0 +1,14 @@
+Vehicle ID750
+                            DRIDF6MBX2101871
+                            
+                            
+                            Event TypeMediaError  - SD1,Write error
+                            Event Local Time2022-09-20 17:10:38
+                            Event Time GMT2022-09-20 21:10:38
+                            URLView Event
+                            More DataSD1,Write error
+                            Vehicle Registration
+                            Vehicle VIN
+                            Vehicle Manufacturer
+                            Vehicle Model
+                            Vehicle FuelColorTransmissionPolicy HolderPolicy NumberCustom 1Custom 2

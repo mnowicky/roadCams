@@ -56,8 +56,8 @@ module.exports = {
                                         //console.log('Buffer 2: ' + buffer);
                                     }
                                 });
-                                logger.printWriteLine(prefix + 'Body');
-                                logger.printWriteLine(stream);
+                                //logger.printWriteLine(prefix + 'Body');
+                                //logger.printWriteLine(stream);
                                 stream.pipe(fs.createWriteStream('./mailParser/'+ seqno + '-body.txt'));
                             });
                             msg.once('end', function () {

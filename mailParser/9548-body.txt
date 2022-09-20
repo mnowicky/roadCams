@@ -1,0 +1,14 @@
+Vehicle ID432
+                            DRIDT0MAY2100011
+                            
+                            
+                            Event TypeMediaError  - SD1,Write error
+                            Event Local Time2022-09-20 16:40:19
+                            Event Time GMT2022-09-20 20:40:19
+                            URLView Event
+                            More DataSD1,Write error
+                            Vehicle Registration
+                            Vehicle VIN
+                            Vehicle Manufacturer
+                            Vehicle Model
+                            Vehicle FuelColorTransmissionPolicy HolderPolicy NumberCustom 1Custom 2
